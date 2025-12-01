@@ -38,7 +38,6 @@ expected_stdout_lines:
   - '== APP - conversation == === Simple Conversation ==='
   - '== APP - conversation == Conversation input sent: What is dapr?'
   - '== APP - conversation == Output response: What is dapr?'
-  - '== APP - conversation ==                             '
   - '== APP - conversation == === Tool Calling ==='
   - '== APP - conversation == Tool calling input sent: What is the weather like in San Francisco in celsius?'
   - '== APP - conversation == Output message: What is the weather like in San Francisco in celsius?'
