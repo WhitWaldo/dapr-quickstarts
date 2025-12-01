@@ -103,7 +103,7 @@ mvn clean install
 java -jar target/ConversationAIService-0.0.1-SNAPSHOT.jar com.service.Conversation
 ```
 
-2. Run the Dapr process alongside the application.
+2. Run the Dapr process alongside the application
 
 ```bash
 dapr run --app-id conversation --resources-path ../../../components/
